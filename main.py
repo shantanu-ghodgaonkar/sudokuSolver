@@ -5,6 +5,8 @@ from grid import Grid
 from board import Board
 
 
+# GitHub comment test 1
+
 class Game:
     """Class to monitor and manage all assets of the game"""
 
